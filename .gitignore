@@ -1,0 +1,11 @@
+*.pkl
+*.pkl.xz
+*.pcap
+__pycache__/
+.ipynb_checkpoints/
+# Assignment data (downloaded / generated, too large for GitHub)
+docs/assignments/nd_data/
+docs/assignments/nd_data.zip
+
+# macOS metadata
+.DS_Store
